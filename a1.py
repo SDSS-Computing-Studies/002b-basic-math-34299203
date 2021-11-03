@@ -7,4 +7,4 @@
 
 x = 10
 y = 4
-anwser = x + y
+answer = x + y
