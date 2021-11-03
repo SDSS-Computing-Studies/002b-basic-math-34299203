@@ -8,4 +8,3 @@
 x = 10
 y = 4
 anwser = x + y
-print(anwser)
